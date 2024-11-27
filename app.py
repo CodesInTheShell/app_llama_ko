@@ -1,4 +1,5 @@
 #####--------------------------- START DOCU -------------------------
+Using huggingface transformer library
 
 ### Huggingface welcome
 #$ pip install huggingface_hub				
@@ -12,7 +13,7 @@
 ### May need to login
 # from huggingface_hub import login
 # login()
-# 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 #readonly
+# hf_GNXqNye_SOME_TOKEN_BVsdj #readonly and already deleted on HF
 
 
 # pip install --upgrade pip
